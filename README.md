@@ -1,6 +1,5 @@
 ### Hi there 👋, My name is Cihad
 #### I'am an software developer
-![I'am an software developer]
 
 Skills: Delphi RAD Studio 10.4 Tokyo,Object Pascal,Rest,OOP,Design Patterns,HTML / CSS
 
