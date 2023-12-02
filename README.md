@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, My name is Cihad
+#### I'am an software developer
+![I'am an software developer]
 
-<!--
-**cihadkocasahan/cihadkocasahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: Delphi RAD Studio 10.4 Tokyo,Object Pascal,Rest,OOP,Design Patterns,HTML / CSS
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Delphi,Restfull services,ERP-MES Solutions for Desktop 
+- 🌱 I’m currently learning C#,.NET,MVC,Web API,Flutter,ABP Framework 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cihadkocasahan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cihadkocasahan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ckocasahan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cihadkocasahan)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cihadkocasahan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cihadkocasahan&show_icons=true)  
+
