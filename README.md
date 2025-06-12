@@ -3,7 +3,7 @@
 
 Skills: Delphi RAD Studio 10.4 Tokyo,Object Pascal,Rest,OOP,Design Patterns,HTML / CSS
 
-- 🔭 I’m currently working on Delphi,ERP-MES Solutions for Desktop 
+- 🔭 I’m currently working on Health Solutions now,worked before ERP-MES Solutions for Desktop with Delphi; 
 - 🌱 I’m currently learning C#,.NET,MVC,Web API,ABP Framework,Flutter
 
 
