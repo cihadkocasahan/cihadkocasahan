@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Cihad
 
-## 🚀 Talented Delphi Developer | IT Professional
+## 🚀 Delphi Developer | IT Professional
 
 > Computer enthusiast since 1997, Delphi journey since 2004 with professional software development focus since 2021 - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
 
