@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Cihad
 
-## 🚀 Delphi Developer | IT Professional
+## 🚀 Talented Delphi Developer | IT Professional
 
 > Computer enthusiast since 1997, Delphi journey since 2004 with professional focus in recent 5 years - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
 
@@ -35,12 +35,16 @@
 
 ### 🗄️ Database & Integration
 - **SQL Server & MS-SQL** - Advanced query optimization and database design
+- **Firebird & SQLite** - Multi-database environment experience
+- **FireDAC & FIBPlus** - Advanced data access components and ORM strategies
 - **REST APIs** - RESTful service development and consumption
 - **SOAP & Web Services** - Legacy system integration
 - **Data Access Layers** - Efficient ORM and data mapping strategies
 
 ### 🎨 UI/UX Development
 - **DevExpress Components** - Advanced component usage and customization
+- **TMS Components** - Professional UI component development
+- **FastReport** - Advanced reporting and document generation
 - **Modern UI Design** - User-centric interface development
 - **Responsive Layouts** - Cross-platform compatibility
 
