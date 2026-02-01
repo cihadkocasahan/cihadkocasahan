@@ -2,7 +2,7 @@
 
 ## 🚀 Delphi Developer | IT Professional
 
-> Computer enthusiast since 1997, Delphi journey since 2004 with professional focus in recent 5 years - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
+> Computer enthusiast since 1997, Delphi journey since 2004 with professional focus in recent 5-6 years - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
 
 ### 💼 Current Focus
 - 🏥 **Healthcare Solutions Development** (Current - 2+ years in healthcare sector)
