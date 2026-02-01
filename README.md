@@ -1,13 +1,14 @@
 # Hi there 👋, I'm Cihad
 
-## 🚀 Delphi Developer | IT Professional
+## 🚀 Talented Delphi Developer | IT Professional
 
-> Computer enthusiast since 1997, Delphi journey since 2004 with professional focus in recent 5-6 years - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
+> Computer enthusiast since 1997, Delphi journey since 2004 with professional software development focus since 2021 - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
 
 ### 💼 Current Focus
-- 🏥 **Healthcare Solutions Development** (Current - 2+ years in healthcare sector)
-- 🔧 **ERP, MES & Accounting Systems** (Previous experience - 2+ years) - Developed comprehensive business solutions including accounting, manufacturing execution, and enterprise resource planning modules
-- 🚀 **Professional Journey** - 5+ years as professional developer, first encountered Delphi in 2004, PC enthusiast since 1997
+- 🏥 **Healthcare ERP Solutions** (2021 - Present, 3+ years)
+  - Developing comprehensive ERP, MES & Accounting modules for healthcare sector
+- 🚀 **Professional Journey** - Software developer since 2021, IT professional since 2004 (hardware, electronics, GSM/notebook repair 2012-2021)
+- 🔧 **Delphi Expertise** - First encountered in 2004 with 2 years of amateur projects, professional specialization since 2021
 - 🌱 **Technology Expansion** - Learning .NET, C#, MVC, Web API, ABP Framework, Flutter
 - 🤖 **AI-Powered Development** - Leveraging modern AI editors for legacy codebase modernization
 
@@ -54,6 +55,11 @@
 - **CI/CD** - TeamCity (automated builds and deployments)
 - **Code Quality** - Static analysis, unit testing, code reviews
 
+### 💻 IT & Hardware Background
+- **IT Support & Troubleshooting** - 2004-2021
+- **Electronics Repair** - GSM & Notebook hardware repair (2012-2021)
+- **Hardware Expertise** - Deep understanding of computer systems and electronics
+
 ### 🌐 Expanding Horizons
 - **.NET Ecosystem** - C#, MVC, Web API development
 - **ABP Framework** - Modern application development
@@ -64,11 +70,13 @@
 
 ## 💡 Professional Strengths
 
-### 🎯 Technical Leadership
+### 🎯 Technical Excellence & Dedication
 - **Legacy System Modernization** - Transforming old codebases with modern practices
 - **Performance Optimization** - Memory management and algorithm efficiency
 - **System Architecture** - Designing scalable enterprise solutions
 - **Code Quality Advocacy** - Promoting clean code and best practices
+- **Strong Ownership** - Taking full responsibility and investing necessary time and effort until completion
+- **Problem-Solving Persistence** - Unable to rest until the job is properly done
 
 ### 🤝 Collaboration & Communication
 - **Cross-functional Teamwork** - Working effectively with diverse teams
@@ -90,13 +98,11 @@
 - **Legacy Code Modernization** - Tools and practices for updating Delphi codebases
 
 ### 🏥 Current Professional Work
-- **ERP, MES & Accounting Systems** - Developing comprehensive business solutions for healthcare sector
+- **Healthcare ERP, MES & Accounting Systems** - Developing comprehensive business solutions for healthcare sector
 - **Legacy System Modernization** - Updating and maintaining existing Delphi codebases
 - **Database Integration** - Working with SQL Server, Firebird, and SQLite databases
 - **Component Development** - Utilizing DevExpress, TMS, FIBPlus, FireDAC, and FastReport
 - **Debugging & Troubleshooting** - Advanced problem-solving and system optimization
-
----
 
 ---
 
@@ -110,7 +116,7 @@
 
 ## 🎯 Professional Philosophy
 
-> *"Combining deep technical expertise with modern development practices to create solutions that stand the test of time. Always learning, always improving, always delivering value. What's the worst that could happen if you're too curious anyway? 🤸"*
+> *"Combining deep technical expertise with modern development practices to create solutions that stand the test of time. I take full ownership of my work - when there's a job to be done, I invest the necessary time and effort until it's completed right. Always learning, always improving, always delivering value. What's the worst that could happen if you're too curious anyway? 🤸"*
 
 ### 💭 What Drives Me
 - **Technical Excellence** - Pursuing mastery in software craftsmanship
@@ -124,20 +130,23 @@
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| **Delphi/Object Pascal** | ⭐⭐⭐⭐⭐ | 5+ years professional |
-| **SQL Server/MS-SQL** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **DevExpress Components** | ⭐⭐⭐⭐ | 2+ years |
-| **REST APIs** | ⭐⭐⭐⭐ | 2+ years |
-| **Git/Version Control** | ⭐⭐⭐⭐ | 2+ years |
-| **OOP & Design Patterns** | ⭐⭐⭐⭐⭐ | 5+ years |
-| **Multi-Threading** | ⭐⭐⭐⭐ | 2+ years |
-| **ERP/MES/Accounting** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **Firebird/SQLite** | ⭐⭐⭐⭐ | 2+ years |
-| **TMS/FIBPlus/FastReport** | ⭐⭐⭐⭐ | 2+ years |
+| **Delphi/Object Pascal** | ⭐⭐⭐⭐⭐ | 3+ years professional, 20+ years total |
+| **SQL Server/MS-SQL** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **DevExpress Components** | ⭐⭐⭐⭐ | 3+ years |
+| **REST APIs** | ⭐⭐⭐⭐ | 3+ years |
+| **Git/Version Control** | ⭐⭐⭐⭐ | 3+ years |
+| **OOP & Design Patterns** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **Multi-Threading** | ⭐⭐⭐⭐ | 3+ years |
+| **Healthcare ERP/MES** | ⭐⭐⭐⭐⭐ | 3+ years |
+| **Firebird/SQLite** | ⭐⭐⭐⭐ | 3+ years |
+| **TMS/FIBPlus/FastReport** | ⭐⭐⭐⭐ | 3+ years |
+| **Hardware & Electronics** | ⭐⭐⭐⭐ | 9+ years (2012-2021) |
+| **IT Support** | ⭐⭐⭐⭐ | 17+ years (2004-2021) |
 | **C#/.NET** | ⭐⭐⭐ | Learning |
 | **Flutter** | ⭐⭐ | Learning |
 
 ---
+
 
 *"Problem-solving with a smile: 'Size kaç lazım abi?' - Always ready to help fellow developers!"* 😄💻
 
