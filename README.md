@@ -1,20 +1,23 @@
 # Hi there 👋, I'm Cihad
 
-## 🚀 Delphi Developer | IT Professional
+## 🚀 AI-Powered Delphi Stack Developer | Multi-Tech Explorer | Enterprise Solutions
 
 > Computer enthusiast since 1997, Delphi journey since 2004 with professional software development focus since 2021 - Passionate about crafting robust enterprise solutions with advanced Delphi expertise and modern development practices.
 
 ### 💼 Current Focus
-- 🏥 **Healthcare ERP Solutions** (2021 - Present, 3+ years)
-  - Developing comprehensive ERP, MES & Accounting modules for healthcare sector
+- 🏥 **Healthcare ERP Development** (2021 - Present, 3+ years)
+  - Patient management and hospital workflow systems
+- 🏭 **MES Systems** (2021 - Present, 3+ years)
+  - Manufacturing execution and production tracking
+- 💰 **Accounting Modules** (2021 - Present, 3+ years)
+  - Financial management and billing systems
 - 🚀 **Professional Journey** - Software developer since 2021, IT professional since 2004 (hardware, electronics, GSM/notebook repair 2012-2021)
 - 🔧 **Delphi Expertise** - First encountered in 2004 with 2 years of amateur projects, professional specialization since 2021
 - 🌱 **Technology Expansion** - Learning .NET, C#, MVC, Web API, ABP Framework, Flutter
 - 🤖 **AI-Powered Development** - Leveraging modern AI editors for legacy codebase modernization
 
----
 
-## 🛠️ Technical Expertise
+## ️ Technical Expertise
 
 ### 🎯 Core Technologies
 ```pascal
@@ -91,13 +94,9 @@
 
 ---
 
-## 🚀 Recent Projects & Contributions
+## 🚀 Current Projects
 
-### 🌍 Open Source Contributions
-- **[AI Editors Turkish Encoding Manager](https://github.com/cihadkocasahan/delphi-dev-ai-editors-turkish-encoding)** - Multi-language toolkit for Delphi developers using AI editors
-- **Legacy Code Modernization** - Tools and practices for updating Delphi codebases
-
-### 🏥 Current Professional Work
+### 🏥 Professional Work
 - **Healthcare ERP, MES & Accounting Systems** - Developing comprehensive business solutions for healthcare sector
 - **Legacy System Modernization** - Updating and maintaining existing Delphi codebases
 - **Database Integration** - Working with SQL Server, Firebird, and SQLite databases
@@ -106,15 +105,7 @@
 
 ---
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cihadkocasahan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cihadkocasahan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckocasahan/)
-
----
-
-## 🎯 Professional Philosophy
+##  Professional Philosophy
 
 > *"Combining deep technical expertise with modern development practices to create solutions that stand the test of time. I take full ownership of my work - when there's a job to be done, I invest the necessary time and effort until it's completed right. Always learning, always improving, always delivering value. What's the worst that could happen if you're too curious anyway? 🤸"*
 
@@ -130,23 +121,30 @@
 
 | Technology | Proficiency | Experience |
 |------------|-------------|------------|
-| **Delphi/Object Pascal** | ⭐⭐⭐⭐⭐ | 3+ years professional, 20+ years total |
-| **SQL Server/MS-SQL** | ⭐⭐⭐⭐⭐ | 3+ years |
-| **DevExpress Components** | ⭐⭐⭐⭐ | 3+ years |
-| **REST APIs** | ⭐⭐⭐⭐ | 3+ years |
-| **Git/Version Control** | ⭐⭐⭐⭐ | 3+ years |
-| **OOP & Design Patterns** | ⭐⭐⭐⭐⭐ | 3+ years |
-| **Multi-Threading** | ⭐⭐⭐⭐ | 3+ years |
-| **Healthcare ERP/MES** | ⭐⭐⭐⭐⭐ | 3+ years |
-| **Firebird/SQLite** | ⭐⭐⭐⭐ | 3+ years |
-| **TMS/FIBPlus/FastReport** | ⭐⭐⭐⭐ | 3+ years |
-| **Hardware & Electronics** | ⭐⭐⭐⭐ | 9+ years (2012-2021) |
-| **IT Support** | ⭐⭐⭐⭐ | 17+ years (2004-2021) |
-| **C#/.NET** | ⭐⭐⭐ | Learning |
-| **Flutter** | ⭐⭐ | Learning |
+| **Delphi/Object Pascal** | ⭐⭐⭐⭐ | 5+ years professional, 22+ years total |
+| **SQL Server/MS-SQL** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **DevExpress Components** | ⭐⭐⭐⭐ | 5+ years |
+| **REST APIs** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Git/Version Control** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **OOP & Design Patterns** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Multi-Threading** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Healthcare ERP/MES** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Firebird/SQLite** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **TMS/FIBPlus/FastReport** | ⭐⭐⭐⭐⭐ | 5+ years |
+| **Hardware & Electronics** | ⭐⭐⭐⭐⭐ | 9+ years (2012-2021) |
+| **IT Support** | ⭐⭐⭐⭐⭐ | 17+ years (2004-2021) |
+| **C#/.NET** | ⭐⭐⭐ | 4+ years |
+| **Flutter** | ⭐⭐ | 2+ years |
 
 ---
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cihadkocasahan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cihadkocasahan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ckocasahan/)
+
+---
 
 *"Problem-solving with a smile: 'Size kaç lazım abi?' - Always ready to help fellow developers!"* 😄💻
 
