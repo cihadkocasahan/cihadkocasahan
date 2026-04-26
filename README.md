@@ -72,6 +72,8 @@ I build and share tools that solve specific infrastructure and workflow problems
 
 ## 🤝 Let's Collaborate!
 
+> 💡 **Available for Custom Projects:** You can contact me for any kind of custom project needs, from legacy modernization to AI-driven infrastructure automation.
+
 ### 🏥 Legacy Delphi Migration & Modernization (AI-Powered)
 - **Full Codebase Migration** - Expert migration of legacy Delphi projects (D7, D2010) to modern versions (D11/D12).
 - **Clean Architecture Refactoring** - Using AI-assisted patterns to transform monolithic code into modern architectures.
