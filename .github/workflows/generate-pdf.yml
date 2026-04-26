@@ -1,0 +1,56 @@
+name: Generate PDF CVs and Release
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**.md'
+
+permissions:
+  contents: write
+
+env:
+  USER_NAME: ${{ github.actor }}
+  FILE_PREFIX: "CV"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate PDFs natively via npx
+        run: |
+          # Use npx to process all markdown files securely without third-party action bugs
+          npx -y md-to-pdf ./*.md
+
+      - name: Mix and Rename (Prefix + Actor + Filename + Suffix)
+        run: |
+          mkdir -p final_assets
+          # Find all PDFs in the current directory and rename them
+          find . -maxdepth 1 -name "*.pdf" | while read file; do
+            original_name=$(basename "$file")
+            new_name="${{ env.FILE_PREFIX }}_${{ env.USER_NAME }}_${original_name}"
+            mv "$file" "final_assets/${new_name}"
+          done
+
+      - name: Create Release and Upload All Assets
+        uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/heads/master')
+        with:
+          tag_name: v${{ github.run_number }}
+          name: Professional Document Bundle v${{ github.run_number }}
+          draft: false
+          prerelease: false
+          files: |
+            final_assets/*.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
