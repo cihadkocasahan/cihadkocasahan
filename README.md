@@ -61,6 +61,15 @@
 
 ---
 
+## 🛠️ Open Source & Personal Projects
+
+I build and share tools that solve specific infrastructure and workflow problems. You can explore them here:
+
+- 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn)**: A focused utility designed to resolve synchronization, shadowing, and workflow challenges within SVN (Subversion) version control environments.
+- 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator)**: A "Zero-Config" CI/CD pipeline built on GitHub Actions. It automatically converts Markdown profiles into professional, standardized PDF resumes using a native Node.js engine, completely bypassing common Docker path-resolution bugs.
+
+---
+
 ## 🤝 Let's Collaborate!
 
 ### 🏥 Legacy Delphi Migration & Modernization (AI-Powered)
