@@ -8,6 +8,10 @@ Tüm işlemler aşağıdaki katı kurallara (Düzey 1 Context) göre yürütülm
 - **Gerçeklik ("Ne ise o" İlkesi):** Abartılı unvanlardan (Örn: Super Senior) ve süslü kelimelerden kaçınılmalıdır. Yetkinlikler kanıtlanabilir, net ve doğrudan ifade edilmelidir.
 - **İç İçe Link Yasağı:** CV dosyalarının (.md) içine "PDF İndir" linki KOYMAYIN. Aksi takdirde üretilen PDF'in içinde kendisine ait bir indirme linki (Inception) oluşur. İndirme linkleri sadece `README.md` içinde bulunur.
 - **Markdown Disiplini:** Listelerin (Bullet points) bozulmaması ve düz bir paragrafa dönüşmemesi için madde imlerinden önce ve sonra uygun boşluklar (Enter) bırakıldığından emin olun. Kod blokları içine (` ``` `) madde imi koymayın.
+- **Public Repo / Open Source Ekleme Kuralı:** Kullanıcı "yeni public repo ekle" dediğinde, bu proje MUTLAKA 3 yere birden eklenmelidir:
+  1. `README.md` dosyasındaki "🛠️ Open Source & Personal Projects" altına.
+  2. `CV_Cihad_Kocasahan_TR.md` dosyasındaki "🛠️ Açık Kaynak ve Kişisel Projeler" altına (Türkçe açıklamayla).
+  3. `CV_Cihad_Kocasahan_EN.md` dosyasındaki "🛠️ Open Source & Personal Projects" altına (İngilizce açıklamayla).
 
 ## 🚀 2. CI/CD PDF Otomasyonu (Zero-Config Pipeline)
 - **Motor:** PDF üretimi için 3. parti sorunlu Docker tabanlı action'lar YERİNE, doğrudan GitHub Runner üzerinde **Native Node.js (`npx md-to-pdf`)** kullanılır. Bu sistem `Profile-PDF-Automator` projemizin altın standardıdır.
