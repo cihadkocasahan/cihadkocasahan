@@ -50,6 +50,13 @@
 
 ---
 
+## 🛠️ Açık Kaynak ve Kişisel Projeler
+
+- 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn):** SVN (Subversion) ortamlarındaki versiyon kontrol, senkronizasyon ve gölge kopya (shadowing) iş akışı zorluklarını çözmek için tasarlanmış özel bir araç.
+- 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator):** GitHub Actions üzerinde çalışan "Sıfır Yapılandırma (Zero-Config)" bir CI/CD aracı. Markdown profillerini sorunsuz bir Native Node.js motoruyla profesyonel PDF özgeçmişlerine dönüştürür.
+
+---
+
 ## 🎯 Teknik Stack & Altyapı
 - **Diller:** Delphi (Uzman Seviye), C# (.NET Core), SQL (İleri Seviye T-SQL/PL-SQL), Python.
 - **Bileşenler:** DevExpress VCL, TMS, FastReport, FireDAC, InfoPower, FIBPlus, sgcWebSockets.

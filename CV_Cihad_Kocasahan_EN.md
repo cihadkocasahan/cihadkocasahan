@@ -50,6 +50,13 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 
 ---
 
+## 🛠️ Open Source & Personal Projects
+
+- 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn):** A focused utility designed to resolve synchronization, shadowing, and workflow challenges within SVN (Subversion) version control environments.
+- 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator):** A "Zero-Config" CI/CD pipeline built on GitHub Actions. It automatically converts Markdown profiles into professional, standardized PDF resumes using a native Node.js engine.
+
+---
+
 ## 🎯 Technical Stack & Infrastructure
 - **Languages:** Delphi (Expert Level), C# (.NET Core), SQL (Advanced T-SQL/PL-SQL), Python.
 - **Components:** DevExpress VCL, TMS, FastReport, FireDAC, InfoPower, FIBPlus, sgcWebSockets.
