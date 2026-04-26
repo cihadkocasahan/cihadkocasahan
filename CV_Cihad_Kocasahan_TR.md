@@ -1,5 +1,5 @@
 # **Cihad Kocaşahan**
-> **[📥 Bu Özgeçmişi PDF Olarak İndir](https://github.com/cihadkocasahan/cihadkocasahan/releases/latest)**
+
 
 ### **Delphi Yazılım Uzmanı | Sistem & Altyapı Uzmanı**
 

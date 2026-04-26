@@ -1,5 +1,5 @@
 # **Cihad Kocaşahan**
-> **[📥 Download This Resume as PDF](https://github.com/cihadkocasahan/cihadkocasahan/releases/latest)**
+
 
 ### **Expert Delphi Developer | Systems & Infrastructure Specialist**
 
