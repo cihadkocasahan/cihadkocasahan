@@ -46,8 +46,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/heads/master')
         with:
-          tag_name: v${{ github.run_number }}
-          name: Professional Document Bundle v${{ github.run_number }}
+          tag_name: latest
+          name: Professional CV Documents (Latest)
+          make_latest: true
           draft: false
           prerelease: false
           files: |
