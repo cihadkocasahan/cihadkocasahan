@@ -22,5 +22,9 @@ Tüm işlemler aşağıdaki katı kurallara (Düzey 1 Context) göre yürütülm
 - Bu depo, uzman bir yazılımcının vitrinidir. Geçmişi "deneme", "test", "hata düzeltme" gibi commit'lerle çöplüğe dönüştürülemez.
 - Büyük çaplı düzenlemelerden sonra gerekirse **Orphan Branch** tekniğiyle geçmiş temizlenir ve tek bir profesyonel `[Official Release]` commit'i ile Force Push atılır.
 
+## 🔒 4. Güvenlik ve Gizlilik (Strict Confidentiality)
+- **Zero-Leak (Sıfır Sızıntı) Politikası:** Açık kaynak (Public) depolarda, README'lerde, CV'lerde veya GitHub commit mesajlarında KESİNLİKLE yerel çalışma alanlarındaki özel proje adlarından (Örn: OzelDers, AnıkÇeviri vb.), şirket içi modül isimlerinden, araştırma yaparken referans veya örnek alınan kişi/kurum/projelerden **BAHSEDİLMEYECEKTİR**. 
+- Tüm açık kaynak tanıtımları ve CV maddeleri %100 jenerik, soyutlanmış, profesyonel ve kurumsal/özel bağlardan izole bir dille yazılmalıdır.
+
 ---
 > **Not:** Eğer PDF dönüştürme motorunda köklü bir iyileştirme yapılacaksa, bu değişiklik önce `Profile-PDF-Automator` açık kaynak projesinde test edilmeli, başarılı olursa bu depoya senkronize edilmelidir.
