@@ -69,7 +69,7 @@
 ## 🎓 Eğitim & Sertifikalar
 - **Yazılım Geliştirme Ustalık Belgesi** (2023, Milli Eğitim Bakanlığı)
 - **Delphi Teknikleri & OOP Sertifikaları** (2023)
-- **KDS Sağlık Yazılım Sertifikası** (2023)
+- **Object Oriented Programming Sertifikası** (2023, Digital Vizyon Akademi)
 - **Unity 401 & Mobile Development** (2024, Oyun Akademisi)
 - **Git & GitHub Uzmanlık Eğitimi** (2024)
 - **Bilgisayar Programcılığı & Temel BT** (2021, BTK Akademi)

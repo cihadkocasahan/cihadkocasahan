@@ -69,7 +69,7 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 ## 🎓 Education & Certifications
 - **Mastery Certificate in Software Development** (2023, Ministry of National Education)
 - **Delphi Techniques & OOP Certifications** (2023)
-- **KDS Healthcare Software Certification** (2023)
+- **Object Oriented Programming Certificate** (2023, Digital Vizyon Akademi)
 - **Unity 401 & Mobile Development** (2024, Game Academy)
 - **Git & GitHub Expert Training** (2024)
 - **Computer Programming & Basic IT** (2021, BTK Academy)
