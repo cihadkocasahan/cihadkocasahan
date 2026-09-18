@@ -9,18 +9,19 @@
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 Summary
 A software expert blending 20 years of IT and electronics expertise with a professional software development career since 2021. Specialized in developing and modernizing critical systems in Healthcare HIS, Industrial MES, and Enterprise ERP sectors. I am interested in legacy codebase modernization, infrastructure automation, and building reusable tools that accelerate and automate developer and IT workflows using AI.
 
-## 🛠️ Technical Expertise & Core Focus
-- **Delphi Modernization:** Expert migration of legacy codebases (D7, D2010) to modern Delphi versions (D11/D12) and implementing advanced refactoring.
-- **Component & Framework Modernization:** Managing transitions from legacy UI components to modern, high-performance library sets like DevExpress and TMS.
-- **AI-Powered Architecture & Modern DevOps:** Focused on AI-driven infrastructure automation and unified CI/CD pipelines. Particularly interested in memory management, reusability, and portability in AI agent development workflows.
-- **Database Architecture:** Query optimization and database design on SQL Server, Firebird, and SQLite.
+## 🛠️ Technical Expertise
+
+- **Delphi Modernization:** Expert migration of legacy codebases (D7, D2010) to modern Delphi versions (D11/D12) and advanced refactoring. Component modernization (DevExpress VCL, TMS, FastReport, FireDAC, REST/HTTP, JSON).
+- **Database:** Query optimization and database design on SQL Server, Firebird, and SQLite.
+- **Systems & Infrastructure:** Proxmox VE (Virtualization), Docker. Network management with VPN/Remote Desktop/pfSense.
+- **AI & Automation:** AI Agent workflows for legacy modernization, CI/CD, and building reusable tools that accelerate and automate developer and IT workflows. PowerShell Scripting, TeamCity.
+- **Languages:** Delphi (Expert), SQL (Advanced), C# (.NET Core, Elementary-Intermediate), Python.
+- **Tools:** Git, SVN, MSBuild, Jira, TeamCity.
 
 ---
-
-## 💼 Work Experience
 
 ### **Kalemzen Yazılım - Delphi Developer**
 *09.2024 - Present*
@@ -57,18 +58,9 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 
 ---
 
-## 🎯 Technical Stack & Infrastructure
-- **Languages:** Delphi (Expert Level), C# (.NET Core), SQL (Advanced T-SQL/PL-SQL), Python.
-- **Components:** DevExpress VCL, TMS, FastReport, FireDAC, InfoPower, FIBPlus, sgcWebSockets.
-- **Systems & Infra:** Proxmox VE (Virtualization), Docker.
-- **AI & Automation:** AI Agents (Code Analysis & Modernization), PowerShell Scripting, CI/CD (TeamCity).
-- **Tools:** Git, SVN, Jira, MSBuild.
-
----
-
 ## 🎓 Education & Certifications
 - **Mastery Certificate in Software Development** (2023, Ministry of National Education)
-- **Delphi Techniques & OOP Certifications** (2023)
+- **Delphi Techniques & OOP Certifications** (2023, TrexAcademy)
 - **Object Oriented Programming Certificate** (2023, Digital Vizyon Akademi)
 - **Unity 401 & Mobile Development** (2024, Game Academy)
 - **Git & GitHub Expert Training** (2024)

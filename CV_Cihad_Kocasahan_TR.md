@@ -9,14 +9,17 @@
 
 ---
 
-## 🚀 Profesyonel Özet
+## 🚀 Özet
 20 yıllık bilişim ve elektronik tecrübesini, 2021 yılından itibaren profesyonel Delphi yazılım geliştirme kariyeriyle birleştiren bir yazılım uzmanıyım. Sağlık (HIS), Üretim (MES) ve Kurumsal Kaynak Planlama (ERP) sektörlerinde sistemlerin geliştirilmesi ve modernizasyonu süreçlerinde çalıştım. AI araçlarını kullanarak legacy kod tabanlarının iyileştirilmesi, altyapı otomasyonu ve developer/IT süreçlerini hızlandıran, otomatikleştiren yeniden kullanılabilir araçlar geliştirme konularına ilgiliyim.
 
-## 🛠️ Teknik Yetkinlikler ve Uzmanlık Alanları
-- **Delphi Modernizasyonu:** Legacy (D7, D2010) kod tabanlarının güncel Delphi sürümlerine (D11/D12) taşınması ve refactoring süreçleri.
-- **Bileşen ve Framework Modernizasyonu:** Eskimiş görsel bileşenlerden (UI) modern ve yüksek performanslı kütüphane setlerine (DevExpress, TMS) geçiş süreçlerinin yönetimi.
-- **AI-Powered Architecture & Modern DevOps:** Yapay zeka destekli altyapı otomasyonu ve CI/CD süreçleri üzerine odaklanıyorum. AI agent geliştirme süreçlerinde bellek yönetimi (memory), yeniden kullanılabilirlik (reusability) ve taşınabilirlik (portability) konularına özellikle ilgi duyuyorum.
-- **Veritabanı Mimarı:** SQL Server, Firebird ve SQLite üzerinde sorgu optimizasyonu ve veritabanı tasarımı.
+## 🛠️ Teknik Yetkinlikler
+
+- **Delphi Modernizasyonu:** Legacy (D7, D2010) kod tabanlarının güncel Delphi sürümlerine (D11/D12) taşınması ve refactoring. Bileşen geçişleri ve modernizasyon (DevExpress VCL, TMS, FastReport, FireDAC, REST/HTTP, JSON).
+- **Veritabanı:** SQL Server, Firebird ve SQLite üzerinde sorgu optimizasyonu ve veritabanı tasarımı.
+- **Sistem & Altyapı:** Proxmox VE (Sanallaştırma), Docker. VPN/Remote Desktop/pfSense ile ağ yönetimi.
+- **AI & Otomasyon:** AI Agent workflow'ları; legacy modernizasyon, CI/CD ve developer/IT süreçlerini hızlandıran reusable araç geliştirme. PowerShell Scripting, TeamCity.
+- **Diller:** Delphi (Uzman), SQL (İleri), C# (.NET Core, Temel-Orta), Python.
+- **Araçlar:** Git, SVN, MSBuild, Jira, TeamCity.
 
 ---
 
@@ -57,18 +60,9 @@
 
 ---
 
-## 🎯 Teknik Stack & Altyapı
-- **Diller:** Delphi (Uzman Seviye), C# (.NET Core), SQL (İleri Seviye T-SQL/PL-SQL), Python.
-- **Bileşenler:** DevExpress VCL, TMS, FastReport, FireDAC, InfoPower, FIBPlus, sgcWebSockets.
-- **Sistem & Altyapı:** Proxmox VE (Sanallaştırma), Docker.
-- **AI & Otomasyon:** AI Agent'lar (Kod Analizi ve Modernizasyon), PowerShell Scripting, CI/CD (TeamCity).
-- **Araçlar:** Git, SVN, Jira, MSBuild.
-
----
-
 ## 🎓 Eğitim & Sertifikalar
 - **Yazılım Geliştirme Ustalık Belgesi** (2023, Milli Eğitim Bakanlığı)
-- **Delphi Teknikleri & OOP Sertifikaları** (2023)
+- **Delphi Teknikleri & OOP Sertifikaları** (2023, TrexAcademy)
 - **Object Oriented Programming Sertifikası** (2023, Digital Vizyon Akademi)
 - **Unity 401 & Mobile Development** (2024, Oyun Akademisi)
 - **Git & GitHub Uzmanlık Eğitimi** (2024)
