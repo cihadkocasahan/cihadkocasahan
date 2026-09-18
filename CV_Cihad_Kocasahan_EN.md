@@ -1,11 +1,10 @@
 # **Cihad Kocaşahan**
 
 
-### **Expert Delphi Developer | Systems & Infrastructure Specialist**
+### **Software Developer | Systems & Infrastructure Specialist**
 
-**Email:** cihadkocasahan@gmail.com (Please email for WhatsApp contact) | **Telegram:** [@Ckocasahan](https://t.me/Ckocasahan)  
-**LinkedIn:** [linkedin.com/in/cihadkocasahan](https://linkedin.com/in/cihadkocasahan) | **GitHub:** [github.com/cihadkocasahan](https://github.com/cihadkocasahan)  
-**Location:** Altıeylül, Balıkesir, Turkey (Remote/Hybrid/Onsite)
+**Email:** cihadkocasahan@gmail.com | **LinkedIn:** [linkedin.com/in/cihadkocasahan](https://linkedin.com/in/cihadkocasahan) | **GitHub:** [github.com/cihadkocasahan](https://github.com/cihadkocasahan)  
+**Location:** Altıeylül, Balıkesir, Turkey | **Work Preference:** Remote / Hybrid / Onsite
 
 ---
 
@@ -26,7 +25,7 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 ### **Kalemzen Yazılım - Delphi Developer**
 *09.2024 - Present*
 - Developing critical healthcare software and Ministry of Health integrations (SaglikNET, ENabiz, Medula).
-- Managing cross-version code compatibility and legacy modernization projects.
+- Migrating legacy Delphi codebases (D7, D2010) to modern versions and leading modernization efforts.
 - Database management and query optimization on Firebird.
 - Implementing CI/CD processes and deployment automation using TeamCity and MSBuild.
 

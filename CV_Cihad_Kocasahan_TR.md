@@ -1,11 +1,10 @@
 # **Cihad Kocaşahan**
 
 
-### **Delphi Yazılım Uzmanı | Sistem & Altyapı Uzmanı**
+### **Yazılım Geliştirici | Sistem & Altyapı Uzmanı**
 
-**E-posta:** cihadkocasahan@gmail.com (Wp iletişimi için lütfen mail atınız) | **Telegram:** [@Ckocasahan](https://t.me/Ckocasahan)  
-**LinkedIn:** [linkedin.com/in/cihadkocasahan](https://linkedin.com/in/cihadkocasahan) | **GitHub:** [github.com/cihadkocasahan](https://github.com/cihadkocasahan)  
-**Konum:** Altıeylül, Balıkesir (Remote/Hybrid/Onsite)
+**E-posta:** cihadkocasahan@gmail.com | **LinkedIn:** [linkedin.com/in/cihadkocasahan](https://linkedin.com/in/cihadkocasahan) | **GitHub:** [github.com/cihadkocasahan](https://github.com/cihadkocasahan)  
+**Konum:** Altıeylül, Balıkesir | **Çalışma Tercihi:** Remote / Hybrid / Onsite
 
 ---
 
@@ -28,7 +27,7 @@
 ### **Kalemzen Yazılım - Delphi Developer**
 *09.2024 - Günümüz*
 - Sağlık Bakanlığı entegrasyonları (SaglikNET, ENabiz, Medula) ve kritik sağlık yazılımlarının geliştirilmesi.
-- Çoklu Delphi sürümleri arasında kod uyumluluğu ve legacy modernizasyon çalışmaları.
+- Eski Delphi sürümlerinden (D7, D2010) güncel sürümlere geçiş ve modernizasyon çalışmaları.
 - Firebird üzerinde veri yönetimi ve sorgu optimizasyonu süreçleri.
 - TeamCity ve MSBuild kullanarak CI/CD süreçlerinin ve dağıtım otomasyonunun yönetimi.
 
