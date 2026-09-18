@@ -5,17 +5,17 @@
 
 **Email:** cihadkocasahan@gmail.com (Please email for WhatsApp contact) | **Telegram:** [@Ckocasahan](https://t.me/Ckocasahan)  
 **LinkedIn:** [linkedin.com/in/cihadkocasahan](https://linkedin.com/in/cihadkocasahan) | **GitHub:** [github.com/cihadkocasahan](https://github.com/cihadkocasahan)  
-**Location:** Bursa, Turkey (Remote/Hybrid/Onsite)
+**Location:** Altıeylül, Balıkesir, Turkey (Remote/Hybrid/Onsite)
 
 ---
 
 ## 🚀 Professional Summary
-A software expert blending 20 years of IT and electronics expertise with a professional software development career since 2021. Specialized in developing and modernizing critical systems in Healthcare HIS, Industrial MES, and Enterprise ERP sectors. I focus on achieving high efficiency by integrating modern AI tools into legacy codebase modernization and infrastructure automation workflows.
+A software expert blending 20 years of IT and electronics expertise with a professional software development career since 2021. Specialized in developing and modernizing critical systems in Healthcare HIS, Industrial MES, and Enterprise ERP sectors. I have a particular interest in integrating modern AI tools into legacy codebase modernization and infrastructure automation workflows.
 
 ## 🛠️ Technical Expertise & Core Focus
 - **Delphi Modernization:** Expert migration of legacy codebases (D7, D2010) to modern Delphi versions (D11/D12) and implementing advanced refactoring.
 - **Component & Framework Modernization:** Managing transitions from legacy UI components to modern, high-performance library sets like DevExpress and TMS.
-- **AI-Powered Architecture & Modern DevOps:** Focused on AI-driven infrastructure automation, portable workspaces, and unified CI/CD pipelines.
+- **AI-Powered Architecture & Modern DevOps:** Focused on AI-driven infrastructure automation and unified CI/CD pipelines. Particularly interested in memory management, reusability, and portability in AI agent development workflows.
 - **Database Architecture:** Query optimization and database design on SQL Server, Firebird, and SQLite.
 
 ---
@@ -46,7 +46,7 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 - **Corporate & Government:** Strategic material procurement, maintenance contracts, and IT consultancy services.
 - **Infrastructure & Security:** CCTV installation and long-distance wireless (Wi-Fi) network backbone design.
 - **Business Continuity:** Professional backup strategies and database optimization for enterprise commercial software.
-- **Network & Remote Access:** Implementing secure VPN and Remote Desktop configurations for multi-branch organizations.
+- **Network & Remote Access:** Implementing secure remote access (VPN/Remote Desktop/pfSense) configurations for multi-branch organizations.
 
 ---
 
@@ -60,7 +60,7 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 ## 🎯 Technical Stack & Infrastructure
 - **Languages:** Delphi (Expert Level), C# (.NET Core), SQL (Advanced T-SQL/PL-SQL), Python.
 - **Components:** DevExpress VCL, TMS, FastReport, FireDAC, InfoPower, FIBPlus, sgcWebSockets.
-- **Systems & Infra:** Proxmox VE (Virtualization), Docker, AdGuard/DNS Management.
+- **Systems & Infra:** Proxmox VE (Virtualization), Docker.
 - **AI & Automation:** AI Agents (Code Analysis & Modernization), PowerShell Scripting, CI/CD (TeamCity).
 - **Tools:** Git, SVN, Jira, MSBuild.
 
@@ -74,5 +74,3 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 - **Git & GitHub Expert Training** (2024)
 - **Computer Programming & Basic IT** (2021, BTK Academy)
 
----
-*Let's build future-proof solutions together!*
