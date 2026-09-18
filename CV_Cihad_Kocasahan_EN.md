@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Professional Summary
-A software expert blending 20 years of IT and electronics expertise with a professional software development career since 2021. Specialized in developing and modernizing critical systems in Healthcare HIS, Industrial MES, and Enterprise ERP sectors. I have a particular interest in integrating modern AI tools into legacy codebase modernization and infrastructure automation workflows.
+A software expert blending 20 years of IT and electronics expertise with a professional software development career since 2021. Specialized in developing and modernizing critical systems in Healthcare HIS, Industrial MES, and Enterprise ERP sectors. I am interested in legacy codebase modernization, infrastructure automation, and building reusable tools that accelerate and automate developer and IT workflows using AI.
 
 ## 🛠️ Technical Expertise & Core Focus
 - **Delphi Modernization:** Expert migration of legacy codebases (D7, D2010) to modern Delphi versions (D11/D12) and implementing advanced refactoring.

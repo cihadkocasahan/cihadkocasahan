@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Profesyonel Özet
-20 yıllık bilişim ve elektronik tecrübesini, 2021 yılından itibaren profesyonel Delphi yazılım geliştirme kariyeriyle birleştiren bir yazılım uzmanıyım. Sağlık (HIS), Üretim (MES) ve Kurumsal Kaynak Planlama (ERP) sektörlerinde sistemlerin geliştirilmesi ve modernizasyonu süreçlerinde çalıştım. Modern AI araçlarının legacy kod tabanlarının iyileştirilmesi ve altyapı otomasyonu süreçlerine entegrasyonu konularına özellikle ilgi duyuyorum.
+20 yıllık bilişim ve elektronik tecrübesini, 2021 yılından itibaren profesyonel Delphi yazılım geliştirme kariyeriyle birleştiren bir yazılım uzmanıyım. Sağlık (HIS), Üretim (MES) ve Kurumsal Kaynak Planlama (ERP) sektörlerinde sistemlerin geliştirilmesi ve modernizasyonu süreçlerinde çalıştım. AI araçlarını kullanarak legacy kod tabanlarının iyileştirilmesi, altyapı otomasyonu ve developer/IT süreçlerini hızlandıran, otomatikleştiren yeniden kullanılabilir araçlar geliştirme konularına ilgiliyim.
 
 ## 🛠️ Teknik Yetkinlikler ve Uzmanlık Alanları
 - **Delphi Modernizasyonu:** Legacy (D7, D2010) kod tabanlarının güncel Delphi sürümlerine (D11/D12) taşınması ve refactoring süreçleri.
