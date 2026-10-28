@@ -43,7 +43,7 @@
 
 ### 💼 Career & Experience Timeline
 
-- 🏥 **Kalemzen Yazılım - Delphi Developer** (09.2024 - Present)
+- 🏥 **Kalemzen Yazılım - Delphi Developer** (09.2024 - 15.10.2026)
   - **Focus:** Healthcare ERP & HIS Systems.
   - **Key Work:** Ministry of Health integrations (SaglikNET, ENabiz, Medula). Specialized data management on **Firebird** databases. Developing cross-version compatible codebases.
 - 🏭 **Mert Yazılım (Trex) - Delphi Developer** (03.2022 - 08.2024)
