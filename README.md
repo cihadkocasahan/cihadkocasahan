@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Cihad
 
-## 🚀 Software Developer | Systems & Infrastructure Specialist | AI & Automation
+## 🚀 AI & Automation Specialist | Delphi Developer | IT & Systems
 
 > A journey that began in 1997 with a computer and curiosity — through 14 years of running a business, professional Delphi development across Healthcare, MES and ERP systems, and today's AI-driven automation work. Every step became the foundation for the next. I learn new topics fast, research independently, and turn findings into working solutions — preferring to understand the problem and use the right tools over memorizing every framework end-to-end. Two questions I bring to every challenge: *"How can I automate this instead of doing it manually every day? What tools can I build to make this easier?"*
 
