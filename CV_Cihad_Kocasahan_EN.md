@@ -23,7 +23,7 @@ A software expert blending 20 years of IT and electronics expertise with a profe
 ---
 
 ### **Kalemzen Yazılım - Delphi Developer**
-*09.2024 - Present*
+*09.2024 - Oct 15, 2026*
 - Developing critical healthcare software and Ministry of Health integrations (SaglikNET, ENabiz, Medula).
 - Migrating legacy Delphi codebases (D7, D2010) to modern versions and leading modernization efforts.
 - Database management and query optimization on Firebird.

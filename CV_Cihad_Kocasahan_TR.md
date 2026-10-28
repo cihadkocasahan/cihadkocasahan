@@ -25,7 +25,7 @@
 ## 💼 İş Deneyimi
 
 ### **Kalemzen Yazılım - Delphi Developer**
-*09.2024 - Günümüz*
+*09.2024 - 15.10.2026*
 - Sağlık Bakanlığı entegrasyonları (SaglikNET, ENabiz, Medula) ve kritik sağlık yazılımlarının geliştirilmesi.
 - Eski Delphi sürümlerinden (D7, D2010) güncel sürümlere geçiş ve modernizasyon çalışmaları.
 - Firebird üzerinde veri yönetimi ve sorgu optimizasyonu süreçleri.
