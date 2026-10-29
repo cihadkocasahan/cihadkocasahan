@@ -72,7 +72,7 @@ Proficient in REST APIs, webhooks, and cross-system integration logic. I dig int
 
 ## 🎓 Education & Certifications
 
-> Driven by continuous self-learning since 1997, 14 years of IT infrastructure management, and 5 years of professional software development across enterprise systems (ERP/MES/HIS) — equipped with deep practical proficiency and problem-solving reflexes. Guided by the principle of understanding root problems, researching independently, and shipping resilient automations with AI tools rather than rote memorization. This multidisciplinary journey reflects my pace of learning, adaptability, and end-to-end system-building vision.
+> Driven by continuous self-learning since 1997, 14 years of IT infrastructure management, and 5 years of professional software development across enterprise systems (ERP/MES/HIS) — equipped with deep practical proficiency and problem-solving reflexes. Guided by the principle of understanding root problems, researching independently, and shipping resilient automations with AI tools rather than rote memorization. This journey reflects my pace of learning, adaptability, and end-to-end system-building vision.
 
 - **Mastery Certificate in Software Development** (2023, Ministry of National Education)
 - **Delphi Techniques & OOP Certifications** (2023, TrexAcademy)
