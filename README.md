@@ -35,17 +35,17 @@
 ### 🤖 AI-Powered Development & Automation
 - **AI System Design:** Designing multi-agent systems and automation pipelines — defining agent roles, context flow, and tool delegation; building end-to-end system architectures rather than just prompting individual models.
 - **Agentic Coding:** Active daily use of agentic AI tools (Claude Code, Kiro, etc.) for coding, debugging, research, and documentation workflows.
-- **Local LLM Workflows:** Building personal automation pipelines with local LLMs (Hermes and similar models) running on Proxmox-hosted infrastructure.
-- **MCP & Tool Calling:** Practical experience with Model Context Protocol for extending AI agent capabilities.
+- **Local LLM Workflows:** Building self-hosted automation pipelines with local LLMs and Hermes messaging bridges running on Proxmox VE.
+- **MCP & Tool Calling:** Production experience engineering custom MCP servers (ProxmoxMCP: 60+ tools across 8 modules) and stdio/SSE protocol bridges.
 - **Prompt Engineering:** Designing prompt systems tailored to specific tasks — not just using ready-made prompts, but building custom prompt architectures.
 - **AI Output Validation:** Identifying errors, inconsistencies, and quality issues in AI-generated outputs and correcting them.
 - **GitHub Actions CI/CD:** Automated pipeline design and zero-config deployment workflows.
 - **Spec-Driven Development:** Familiar with agentic task execution, context management, and structured development approaches.
 
 ### 🖥️ Systems & Infrastructure
-- **Proxmox VE** — virtualization platform management with hands-on Linux (VM/container) environment experience.
-- **Docker** — containerization: Dockerfile authoring, docker-compose for multi-service environments.
-- **Network Management** — wired/wireless infrastructure (Switch, Wi-Fi AP), VPN/Remote Desktop/pfSense.
+- **Proxmox VE** — virtualization management (bare-metal Proxmox VE, ZFS mirror storage, unprivileged LXC containers, KVM VMs, template cloning).
+- **Docker** — containerization (Dockerfile authoring, docker-compose, Docker-in-LXC nesting/keyctl optimization).
+- **Network Management** — wired/wireless infrastructure (Switch, Wi-Fi AP), VPN/Remote Desktop/pfSense, AdGuard Home DNS sinkhole & Nginx Proxy Manager.
 - **Endpoint Management** — user accounts, authorization, device setup, and end-user support workflows.
 - **PowerShell Scripting** — IT automation and deployment scripting.
 
@@ -80,6 +80,8 @@
 
 I build and share tools that solve specific infrastructure and workflow problems:
 
+- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxMCP)** *(Homelab AI Control Plane & Architecture)*: A custom FastMCP/FastAPI control plane exposing Proxmox VE virtualization, AdGuard Home DNS, Nginx Proxy Manager, and Docker workloads as callable tools for AI agents. Features conversational infrastructure management via Telegram (Hermes), Docker-in-LXC consolidation, and persistent vector memory (Mem0).  
+  *→ [Explore Full Architecture & Case Study Documentation →](https://github.com/cihadkocasahan/ProxmoxMCP)*
 - 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn)**: A focused utility designed to resolve synchronization, shadowing, and workflow challenges within SVN (Subversion) version control environments.
 - 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator)**: A "Zero-Config" CI/CD pipeline built on GitHub Actions. Automatically converts Markdown profiles into professional PDF resumes using a native Node.js engine — a real-world example of API, webhook, and automation logic working end-to-end.
 
@@ -110,10 +112,10 @@ I build and share tools that solve specific infrastructure and workflow problems
 | **C# / .NET / WPF** | ⭐⭐⭐ | Personal projects, AI-assisted |
 | **Python / React / TypeScript** | ⭐⭐⭐ | Personal projects, AI-assisted |
 | **PostgreSQL / SQLite** | ⭐⭐⭐ | Personal & professional use |
-| **Proxmox / Docker / Linux** | ⭐⭐⭐⭐ | Infrastructure focus |
+| **Proxmox / Docker / Linux** | ⭐⭐⭐⭐ | Production home lab, ZFS mirror, Docker-in-LXC, custom MCP control plane |
 | **AI Agent Workflows** | ⭐⭐⭐⭐⭐ | Active daily use |
 | **GitHub Actions / CI/CD** | ⭐⭐⭐⭐⭐ | Production pipelines |
-| **MCP & Tool Calling** | ⭐⭐⭐⭐ | Practical experience |
+| **MCP & Tool Calling** | ⭐⭐⭐⭐ | Custom ProxmoxMCP server (60+ tools across 8 modules), stdio/SSE proxies |
 | **IT Support & Infrastructure** | ⭐⭐⭐⭐⭐ | 14+ years (2006-2020) |
 
 ---
@@ -130,7 +132,7 @@ I build and share tools that solve specific infrastructure and workflow problems
 
 > 1997'de bir bilgisayar ve merakla başlayan bu yol; 14 yıllık işletme deneyimi, Delphi ile derinleşen yazılım geliştiricilik ve bugün AI destekli otomasyon çalışmalarıyla devam ediyor. Her adım bir sonrakinin zeminine dönüştü.
 
-> Sağlık, üretim ve ERP sektörlerinde sistemler geliştirdim. Çoklu ajan sistemleri ve otomasyon pipeline'ları tasarlıyor, AI araçlarını geliştirme süreçlerimin ayrılmaz bir parçası olarak kullanıyorum.
+> Sağlık, üretim ve ERP sektörlerinde sistemler geliştirdim. Proxmox VE üzerinde kendi tasarladığım donanım ve yazılım altyapısını işletiyor; çoklu ajan sistemleri, yerel vektör bellek (Mem0) ve FastMCP tabanlı AI kontrol düzlemleri geliştiriyorum.
 
 > Her adımda aynı iki soruyu soruyorum: *"Bu işi her gün elle yapmak yerine nasıl otomatik hale getirebilirim? İşleri kolaylaştıracak araçları nasıl geliştirebilirim?"*
 

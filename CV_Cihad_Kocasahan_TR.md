@@ -21,12 +21,12 @@ REST API, webhook ve sistemler arası entegrasyon mantığına hâkim; analitik 
 
 - **Delphi Modernizasyonu:** Legacy (D7, D2010) kod tabanlarının güncel Delphi sürümlerine (D11/D12) taşınması ve refactoring. Bileşen geçişleri ve modernizasyon (DevExpress VCL, TMS, FastReport, FireDAC, REST/HTTP, JSON).
 - **Veritabanı:** SQL Server, Firebird ve SQLite üzerinde sorgu optimizasyonu ve veritabanı tasarımı. PostgreSQL temel düzeyde kişisel projelerde kullanım.
-- **Sistem & Altyapı:** Proxmox VE üzerinde VM/container yönetimi ve Linux ortamı deneyimi. Docker (Dockerfile yazımı, docker-compose ile çok servisli ortam yönetimi). VPN/Remote Desktop/pfSense ile ağ yönetimi.
+- **Sistem & Altyapı:** Proxmox VE üzerinde ZFS mirror sanallaştırma, unprivileged LXC konteynerleri ve KVM sanal makineleri yönetimi. Docker servis konsolidasyonu, AdGuard Home ile yerel DNS filtreleme/rewrite, Nginx Proxy Manager ile ters proxy/SSL ve güvenli uzaktan erişim (VPN, pfSense, ngrok/VNC).
 - **AI Destekli Çok Dilli Geliştirme:** C# / .NET / WPF / WinForms, Python, React, TypeScript/JavaScript alanlarında temel bilgi — AI destekli araçlar (agentic coding, code review, debugging) eşliğinde kişisel projeler ve prototip geliştirme. Teknolojiyi baştan sona ezberlemek yerine; problemi anlayıp, araştırıp, AI araçlarını etkin kullanarak çıktı üretme yetkinliği.
-- **AI & Otomasyon:** Çoklu ajan sistemleri ve otomasyon pipeline'ları tasarlama — ajan rollerini, context akışını ve araç delegasyonunu kurgulama; modelleri tek tek yönlendirmenin ötesinde uçtan uca sistem mimarisi geliştirme. Agentic coding araçları (Claude Code / Kiro vb.) ile geliştirme, hata ayıklama ve dokümantasyon süreçlerinde aktif kullanım. Local LLM (Hermes vb.) tabanlı kişisel otomasyon workflow'ları geliştirme. MCP (Model Context Protocol) & Tool Calling. Prompt sistem tasarımı ve AI çıktı kalite doğrulama. GitHub Actions CI/CD pipeline'ları. PowerShell Scripting, TeamCity.
+- **AI & Otomasyon:** Çoklu ajan sistemleri ve otomasyon mimarileri tasarımı — ajan rolleri, context akışı ve araç delegasyonu. Model Context Protocol (MCP) ile özel sunucu geliştirme (ProxmoxMCP altyapı araçları), yerel LLM iş akışları, Mem0 (pgvector) ile kalıcı semantik hafıza ve N8N/Telegram (Hermes) tabanlı otomasyon filoları.
 - **Entegrasyon:** REST API, JSON, webhook ve sistemler arası entegrasyon geliştirme.
 - **Diller:** Delphi (Uzman), SQL (İleri), Python (Temel-Orta), C# (Temel-Orta).
-- **Araçlar:** Git, GitHub Actions, SVN, MSBuild, Jira, TeamCity, Docker Compose.
+- **Araçlar:** Git, GitHub Actions, SVN, MSBuild, Jira, TeamCity, Docker, Proxmox VE, FastMCP SDK, Proxmox API.
 
 ---
 
@@ -64,6 +64,7 @@ REST API, webhook ve sistemler arası entegrasyon mantığına hâkim; analitik 
 
 ## 🛠️ Açık Kaynak ve Kişisel Projeler
 
+- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxMCP):** Proxmox VE sanallaştırma, DNS, ters proxy ve Docker servislerini AI ajanlarına açan FastMCP tabanlı kontrol düzlemi mimarisi. Altyapıyı IDE ajanları ve Telegram (Hermes) üzerinden çift yönlü konuşarak yönetmeyi, tek adımda servis kurulumunu (deploy_service) ve kalıcı vektör belleği (Mem0) sağlar.
 - 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn):** SVN (Subversion) ortamlarındaki versiyon kontrol, senkronizasyon ve gölge kopya (shadowing) iş akışı zorluklarını çözmek için tasarlanmış özel bir araç.
 - 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator):** GitHub Actions üzerinde çalışan "Sıfır Yapılandırma (Zero-Config)" bir CI/CD aracı. Markdown profillerini Native Node.js motoruyla profesyonel PDF özgeçmişlerine otomatik olarak dönüştürür. API, webhook ve otomasyon mantığının gerçek üretimdeki kullanım örneği.
 

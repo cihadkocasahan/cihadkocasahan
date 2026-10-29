@@ -21,12 +21,12 @@ Proficient in REST APIs, webhooks, and cross-system integration logic. I dig int
 
 - **Delphi Modernization:** Expert migration of legacy codebases (D7, D2010) to modern Delphi versions (D11/D12) and advanced refactoring. Component modernization (DevExpress VCL, TMS, FastReport, FireDAC, REST/HTTP, JSON).
 - **Database:** Query optimization and database design on SQL Server, Firebird, and SQLite. PostgreSQL foundational knowledge used in personal projects.
-- **Systems & Infrastructure:** Proxmox VE — VM/container management with hands-on Linux environment experience. Docker (Dockerfile authoring, multi-service environments with docker-compose). Network management with VPN/Remote Desktop/pfSense.
+- **Systems & Infrastructure:** Proxmox VE with ZFS mirrored storage, unprivileged LXC containers, and KVM virtual machine management. Docker service consolidation, local DNS filtering/rewrites via AdGuard Home, reverse proxy & SSL via Nginx Proxy Manager, and secure remote connectivity (VPN, pfSense, ngrok/VNC).
 - **AI-Assisted Multi-Stack Development:** Foundational knowledge across C# / .NET / WPF / WinForms, Python, React, and TypeScript/JavaScript — actively used alongside agentic coding tools for personal projects and prototyping. The approach: understand the problem, research, and leverage AI tools effectively to deliver output — rather than memorizing every framework end-to-end.
-- **AI & Automation:** Designing multi-agent systems and automation pipelines — defining agent roles, context flow, and tool delegation; building end-to-end system architectures rather than just prompting individual models. Active use of agentic coding tools (Claude Code / Kiro, etc.) for development, debugging, and documentation workflows. Building personal automation workflows with local LLMs (Hermes, etc.). MCP (Model Context Protocol) & Tool Calling. Prompt system design and AI output quality validation. GitHub Actions CI/CD pipelines. PowerShell Scripting, TeamCity.
+- **AI & Automation:** Designing multi-agent systems and automation pipelines — agent roles, context flow, and tool delegation. Custom Model Context Protocol (MCP) server development (ProxmoxMCP infrastructure tools), local LLM workflows, persistent semantic memory (Mem0/pgvector), and N8N/Telegram (Hermes) automation fleets.
 - **Integration:** REST API, JSON, webhook, and cross-system integration development.
 - **Languages:** Delphi (Expert), SQL (Advanced), Python (Basic-Intermediate), C# (Basic-Intermediate).
-- **Tools:** Git, GitHub Actions, SVN, MSBuild, Jira, TeamCity, Docker Compose.
+- **Tools:** Git, GitHub Actions, SVN, MSBuild, Jira, TeamCity, Docker, Proxmox VE, FastMCP SDK, Proxmox API.
 
 ---
 
@@ -64,6 +64,7 @@ Proficient in REST APIs, webhooks, and cross-system integration logic. I dig int
 
 ## 🛠️ Open Source & Personal Projects
 
+- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxMCP):** A custom FastMCP-based control plane exposing Proxmox VE virtualization, DNS, reverse proxy, and Docker workloads to AI agents. Enables conversational infrastructure management via desktop IDE agents and Telegram (Hermes), atomic service provisioning (deploy_service), and persistent vector memory (Mem0).
 - 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn):** A focused utility designed to resolve synchronization, shadowing, and workflow challenges within SVN (Subversion) version control environments.
 - 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator):** A "Zero-Config" CI/CD pipeline built on GitHub Actions. Automatically converts Markdown profiles into professional PDF resumes using a native Node.js engine — a real-world example of API, webhook, and automation logic working end-to-end in production.
 
