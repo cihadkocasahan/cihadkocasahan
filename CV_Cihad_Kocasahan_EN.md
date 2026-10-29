@@ -64,7 +64,7 @@ Proficient in REST APIs, webhooks, and cross-system integration logic. I dig int
 
 ## 🛠️ Open Source & Personal Projects
 
-- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxHomeLab):** An open-source control plane demonstrating production experience in Git, GitHub, AI APIs, Docker, MCP, and tool calling — embodying the engineering mindset: "Rather than memorizing every framework, understand the problem, research, and turn workflows into autonomous automations." Connects bare-metal Proxmox, AdGuard DNS, and Docker workloads to AI agents for conversational management via desktop IDEs and Telegram.
+- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxHomeLab):** An open-source control plane demonstrating production experience in Git, GitHub, AI APIs, Docker, MCP, and tool calling — embodying the engineering mindset: "Rather than memorizing every framework, understand the problem, research, and turn workflows into autonomous automations." Connects bare-metal Proxmox, AdGuard DNS, and Docker workloads to AI agents, enabling bidirectional conversational control, self-healing infrastructure reflexes, and end-to-end IoT/ESP32 automation.
 - 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn):** A focused utility designed to resolve synchronization, shadowing, and workflow challenges within SVN (Subversion) version control environments.
 - 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator):** A "Zero-Config" CI/CD pipeline built on GitHub Actions. Automatically converts Markdown profiles into professional PDF resumes using a native Node.js engine — a real-world example of API, webhook, and automation logic working end-to-end in production.
 
