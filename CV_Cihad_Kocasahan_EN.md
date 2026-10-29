@@ -72,7 +72,7 @@ Proficient in REST APIs, webhooks, and cross-system integration logic. I dig int
 
 ## 🎓 Education & Certifications
 
-> A journey that began in 1997 with a computer and curiosity — shaped by 14 years of running a business, deepened through professional Delphi development, and continuing today with AI-driven automation work. Every step became the foundation for the next. I learn new topics fast, research independently, and turn findings into working solutions — preferring to understand the problem and use the right tools over memorizing every framework end-to-end. This career path across diverse fields reflects my pace of learning, adaptability, and the breadth of my technical interests.
+> Driven by continuous self-learning since 1997, 14 years of IT infrastructure management, and 5 years of professional software development across enterprise systems (ERP/MES/HIS) — equipped with deep practical proficiency and problem-solving reflexes. Guided by the principle of understanding root problems, researching independently, and shipping resilient automations with AI tools rather than rote memorization. This multidisciplinary journey reflects my pace of learning, adaptability, and end-to-end system-building vision.
 
 - **Mastery Certificate in Software Development** (2023, Ministry of National Education)
 - **Delphi Techniques & OOP Certifications** (2023, TrexAcademy)

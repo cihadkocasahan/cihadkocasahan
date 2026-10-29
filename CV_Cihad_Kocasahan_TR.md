@@ -72,7 +72,7 @@ REST API, webhook ve sistemler arası entegrasyon mantığına hâkim; analitik 
 
 ## 🎓 Eğitim & Sertifikalar
 
-> 1997'de bir bilgisayar ve merakla başlayan bu yol; 14 yıllık işletme deneyimi, Delphi ile derinleşen yazılım geliştiricilik ve bugün AI destekli otomasyon çalışmalarıyla devam ediyor. Her adım bir sonrakinin zeminine dönüştü. Yeni bir konuyu hızlı öğrenir, araştırır ve sonucu uygulamaya dönüştürürüm — her teknolojiyi ezberlemek yerine problemi anlamayı ve doğru araçlarla çözüm üretmeyi tercih ederim. Farklı alanlardaki bu kariyer yolculuğu; öğrenme hızımı, uyum yeteneğimi ve teknik ilgi alanlarımın genişliğini ortaya koymaktadır.
+> 1997'den bu yana kesintisiz süren öz-öğrenim, 14 yıllık saha/altyapı işletmeciliği ve son 5 yılda kurumsal sistemlerde (ERP/MES/HIS) profesyonel yazılım geliştirme tecrübesiyle; güçlü bir pratik yetkinlik ve problem çözme refleksine sahibim. Her teknolojiyi ezberlemek yerine problemi anlamayı, araştırmayı ve AI araçlarıyla sürdürülebilir otomasyona dönüştürmeyi ilke edindim. Bu çok disiplinli yolculuk; öğrenme hızımı, uyum yeteneğimi ve uçtan uca sistem kurma vizyonumu yansıtmaktadır.
 
 - **Yazılım Geliştirme Ustalık Belgesi** (2023, Milli Eğitim Bakanlığı)
 - **Delphi Teknikleri & OOP Sertifikaları** (2023, TrexAcademy)
