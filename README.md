@@ -80,8 +80,8 @@
 
 I build and share tools that solve specific infrastructure and workflow problems:
 
-- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxMCP)** *(Homelab AI Control Plane & Architecture)*: A custom FastMCP/FastAPI control plane exposing Proxmox VE virtualization, AdGuard Home DNS, Nginx Proxy Manager, and Docker workloads as callable tools for AI agents. Features conversational infrastructure management via Telegram (Hermes), Docker-in-LXC consolidation, and persistent vector memory (Mem0).  
-  *→ [Explore Full Architecture & Case Study Documentation →](https://github.com/cihadkocasahan/ProxmoxMCP)*
+- 🖥️ **[ProxmoxHomeLab](https://github.com/cihadkocasahan/ProxmoxHomeLab)** *(Homelab AI Control Plane & Architecture)*: A custom FastMCP/FastAPI control plane exposing Proxmox VE virtualization, AdGuard Home DNS, Nginx Proxy Manager, and Docker workloads as callable tools for AI agents. Features conversational infrastructure management via Telegram (Hermes), Docker-in-LXC consolidation, and persistent vector memory (Mem0).  
+  *→ [Explore Full Architecture & Case Study Documentation →](https://github.com/cihadkocasahan/ProxmoxHomeLab)*
 - 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn)**: A focused utility designed to resolve synchronization, shadowing, and workflow challenges within SVN (Subversion) version control environments.
 - 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator)**: A "Zero-Config" CI/CD pipeline built on GitHub Actions. Automatically converts Markdown profiles into professional PDF resumes using a native Node.js engine — a real-world example of API, webhook, and automation logic working end-to-end.
 

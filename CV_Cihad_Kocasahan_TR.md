@@ -64,7 +64,7 @@ REST API, webhook ve sistemler arası entegrasyon mantığına hâkim; analitik 
 
 ## 🛠️ Açık Kaynak ve Kişisel Projeler
 
-- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxMCP):** Proxmox VE sanallaştırma, DNS, ters proxy ve Docker servislerini AI ajanlarına açan FastMCP tabanlı kontrol düzlemi mimarisi. Altyapıyı IDE ajanları ve Telegram (Hermes) üzerinden çift yönlü konuşarak yönetmeyi, tek adımda servis kurulumunu (deploy_service) ve kalıcı vektör belleği (Mem0) sağlar.
+- 🖥️ **[ProxmoxMCP](https://github.com/cihadkocasahan/ProxmoxHomeLab):** Proxmox VE sanallaştırma, DNS, ters proxy ve Docker servislerini AI ajanlarına açan FastMCP tabanlı kontrol düzlemi mimarisi. Altyapıyı IDE ajanları ve Telegram (Hermes) üzerinden çift yönlü konuşarak yönetmeyi, tek adımda servis kurulumunu (deploy_service) ve kalıcı vektör belleği (Mem0) sağlar.
 - 🦇 **[Shadow-SVN](https://github.com/cihadkocasahan/shadow-svn):** SVN (Subversion) ortamlarındaki versiyon kontrol, senkronizasyon ve gölge kopya (shadowing) iş akışı zorluklarını çözmek için tasarlanmış özel bir araç.
 - 📄 **[Profile-PDF-Automator](https://github.com/cihadkocasahan/Profile-PDF-Automator):** GitHub Actions üzerinde çalışan "Sıfır Yapılandırma (Zero-Config)" bir CI/CD aracı. Markdown profillerini Native Node.js motoruyla profesyonel PDF özgeçmişlerine otomatik olarak dönüştürür. API, webhook ve otomasyon mantığının gerçek üretimdeki kullanım örneği.
 
