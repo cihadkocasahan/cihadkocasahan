@@ -150,4 +150,3 @@ I build and share tools that solve specific infrastructure and workflow problems
 [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ckocasahan)
 
 ---
-*"Problem-solving with a smile: 'Size kaç lazım abi?' - Always ready to help fellow developers!"* 😄💻
