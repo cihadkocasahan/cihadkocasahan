@@ -76,7 +76,7 @@
 
 ---
 
-## 🛠️ Open Source & Personal Projects
+## 💼 Portfolio Demos & Open Source Architecture
 
 I build and share tools that solve specific infrastructure and workflow problems:
 

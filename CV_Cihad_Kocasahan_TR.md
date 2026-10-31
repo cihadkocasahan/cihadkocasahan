@@ -62,7 +62,7 @@ REST API, webhook ve sistemler arası entegrasyon mantığına hâkim; analitik 
 
 ---
 
-## 🛠️ Açık Kaynak ve Kişisel Projeler
+## 💼 Portfolyo Demoları & Mimari Referans Projeleri
 
   - 💼 **[Gelesiye Çoklu Teknoloji Finans Ekosistemi (Delphi, WPF, Web/Cloud)](https://github.com/cihadkocasahan/Gelesiye-Web)**: "Her framework'ü ezberlemek yerine; problemi anlayıp, mimariyi tasarlayıp yapay zeka destekli geliştirme disipliniyle üretime alma" vizyonumun somut kanıtı olan açık kaynak finansal takip ekosistemi. Aynı iş mantığını, veri şemasını ve kurallarını üç farklı teknoloji yığınında uçtan uca uygular:
     - 🔷 **[Gelesiye-Delphi](https://github.com/cihadkocasahan/Gelesiye-Delphi)**: Embarcadero Delphi 12, Win64, saf VCL, MVVM ve SQLite/Firebird repository desenli masaüstü sürümü.

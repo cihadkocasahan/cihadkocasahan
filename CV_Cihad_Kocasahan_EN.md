@@ -62,7 +62,7 @@ Proficient in REST APIs, webhooks, and cross-system integration logic. I dig int
 
 ---
 
-## 🛠️ Open Source & Personal Projects
+## 💼 Portfolio Demos & Open Source Architecture
 
   - 💼 **[Gelesiye Multi-Stack Ecosystem (Delphi, WPF, Web/Cloud)](https://github.com/cihadkocasahan/Gelesiye-Web)**: A production-grade ledger and accounts receivable/payable management ecosystem demonstrating the engineering mindset: *"Instead of memorizing frameworks, understand domain requirements and build scalable, clean-architecture software across stacks using AI-assisted workflows."* Solves the identical financial problem across three separate platforms sharing consistent domain rules:
     - 🔷 **[Gelesiye-Delphi](https://github.com/cihadkocasahan/Gelesiye-Delphi)**: Win64 desktop implementation using Embarcadero Delphi 12, pure VCL, MVVM, and SQLite/Firebird repository pattern.
