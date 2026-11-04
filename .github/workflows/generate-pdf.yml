@@ -7,6 +7,7 @@ on:
     paths:
       - 'CV_*.md'
       - '.github/workflows/generate-pdf.yml'
+  workflow_dispatch:
 
 permissions:
   contents: write
