@@ -129,8 +129,8 @@ I build and share tools that solve specific infrastructure and workflow problems
 ## 📄 Curriculum Vitae (CV) & Official Documents
 > *PDF versions are automatically generated and updated via **GitHub Actions** on every change.*
 
-- 🇹🇷 **[Türkçe Özgeçmiş (Markdown)](./CV_Cihad_Kocasahan_TR.md)** | **[📥 PDF İndir (En Güncel)](https://github.com/cihadkocasahan/cihadkocasahan/releases/latest)**
-- 🇬🇧 **[English Resume (Markdown)](./CV_Cihad_Kocasahan_EN.md)** | **[📥 Download PDF (Latest)](https://github.com/cihadkocasahan/cihadkocasahan/releases/latest)**
+- 🇹🇷 **[Türkçe Özgeçmiş (Markdown)](./CV_Cihad_Kocasahan_TR.md)** | **[📥 PDF İndir (En Güncel)](https://github.com/cihadkocasahan/cihadkocasahan/releases/download/latest/CV_Cihad_Kocasahan_TR.pdf)**
+- 🇬🇧 **[English Resume (Markdown)](./CV_Cihad_Kocasahan_EN.md)** | **[📥 Download PDF (Latest)](https://github.com/cihadkocasahan/cihadkocasahan/releases/download/latest/CV_Cihad_Kocasahan_EN.pdf)**
 
 ---
 

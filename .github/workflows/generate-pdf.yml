@@ -5,14 +5,13 @@ on:
     branches:
       - master
     paths:
-      - '**.md'
+      - 'CV_*.md'
+      - '.github/workflows/generate-pdf.yml'
 
 permissions:
   contents: write
 
 env:
-  USER_NAME: ${{ github.actor }}
-  FILE_PREFIX: "CV"
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
@@ -29,18 +28,14 @@ jobs:
 
       - name: Generate PDFs natively via npx
         run: |
-          # Use npx to process all markdown files securely without third-party action bugs
-          npx -y md-to-pdf ./*.md
+          # Process only CV markdown files directly
+          npx -y md-to-pdf ./CV_*.md
 
-      - name: Mix and Rename (Prefix + Actor + Filename + Suffix)
+      - name: Collect Release Assets
         run: |
           mkdir -p final_assets
-          # Find all PDFs in the current directory and rename them
-          find . -maxdepth 1 -name "*.pdf" | while read file; do
-            original_name=$(basename "$file")
-            new_name="${{ env.FILE_PREFIX }}_${{ env.USER_NAME }}_${original_name}"
-            mv "$file" "final_assets/${new_name}"
-          done
+          mv ./CV_*.pdf final_assets/
+          ls -la final_assets/
 
       - name: Create Release and Upload All Assets
         uses: softprops/action-gh-release@v2
